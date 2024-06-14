@@ -1,4 +1,4 @@
-# Brute Force Attack (Simulation)
+# Brute Force Attack (Simulator)
 
 ## About
 
